@@ -1,0 +1,28 @@
+#authorize{
+	cursor:pointer;
+}
+
+.btn{
+	display:block;
+}
+
+#searchList{
+	list-style-type:none;
+}
+
+#searchList .searchItem{
+	width:auto;
+	overflow:auto;
+	margin-bottom:20px;
+}
+
+
+#searchList .searchItem a,
+#searchList .searchItem img{
+	display:block;
+}
+
+#searchList .searchItem img{
+	float:left;
+	margin-right:5px;
+}
